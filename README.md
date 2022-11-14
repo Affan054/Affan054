@@ -1,10 +1,13 @@
+<code>
+<img  height="150rem" width="100%" alt="GIF" src="https://www.freybergdigital.co.nz/uploads/1/1/7/3/117375452/340271881_orig.gif" />
+</code>
+
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://shwetang550.github.io/profile/">Saye</a></h2>
 <p align="center">
  
 </p>
 
 <img align="right" height="150rem" alt="GIF" src="https://miro.medium.com/max/1080/1*VFYWXlag5Sxqgpq7EHJ7CA.gif" />
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
@@ -43,3 +46,6 @@
   <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
 </p>
 
+<code>
+<img  height="150rem" width="100%" alt="GIF" src="https://www.freybergdigital.co.nz/uploads/1/1/7/3/117375452/340271881_orig.gif" />
+</code>
