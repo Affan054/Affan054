@@ -41,10 +41,6 @@
 
 <br />
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Shwetang550/count.svg" />
-</p>
 
 <code>
 <img  height="150rem" width="100%" alt="GIF" src="https://www.freybergdigital.co.nz/uploads/1/1/7/3/117375452/340271881_orig.gif" />
