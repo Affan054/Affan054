@@ -8,12 +8,12 @@
 </p>
 
 <img align="right" height="150rem" alt="GIF" src="https://miro.medium.com/max/1080/1*VFYWXlag5Sxqgpq7EHJ7CA.gif" />
-**Talking about Personal Stuffs:**
+
 
 - 👨🏽‍💻  I’m currently working on something cool :wink:.
 - 🌱  I’m currently learning NodeJS
 - 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: shwetangsingh5@gmail.com.
+- 📫  How to reach me: 
 
 ***
 
